@@ -3,11 +3,12 @@
 
 n = int(input("Enter the Number: "))
 print("The divisors of the number are:")
-
-for i in range(1, n + 1):
+ans = []
+i = 1
+for i in range(i, n + 1):
 
     if(n % i == 0):
-
-        print(i)
+        ans.append(i)
+print(ans)
 
 print("\n20DCE019 - Yatharth Chauhan")
