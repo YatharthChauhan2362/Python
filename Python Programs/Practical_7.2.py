@@ -7,13 +7,9 @@ def dedupe_v1(x):
             y.append(i)
     return y
 
-# this one uses sets
-# def dedupe_v2(x):
-   # return list(set(x))
 
 a = [2, 3, 3, 2, 5, 6, 7, 8, 5, 6]
 print("Original list", a)
 print("Duplicate list", dedupe_v1(a))
 
 print("\n20DCE019 - Yatharth Chauhan")
-#print (dedupe_v2(a))
