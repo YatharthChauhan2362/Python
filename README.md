@@ -1,7 +1,14 @@
-Coder: Yatharth Chauhan
+# Coder: Yatharth Chauhan
 
-What Is Programming and Why Python?
+# What Is Programming and Why Python?
 
--> Guido Van Rossum created the Python Programming language in February 1991. Python is an interpreted, high-level, general-purpose programming language.
--> Python allows us to create a game, build web apps, do general-purpose scripting, etc.
--> Programming helps human beings to reduce hours of manual effort.
+-> Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+Python is an interpreted, high-level, general-purpose programming language.
+
+-> It is used for:
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
